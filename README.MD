@@ -1,3 +1,6 @@
+# Version del curso
+**v0.0.4**
+
 # Titulo de prueba readme
 Soy un README.
 
